@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dariuszgros
 - 👀 I’m interested in frontend development and photography/videography
-- 🌱 I’m currently learning HTML/CSS/JavaScripy
+- 🌱 I’m currently learning HTML/CSS/JavaScript
 - 📫 How to reach me ...
 
 <!---
